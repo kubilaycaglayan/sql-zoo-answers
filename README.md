@@ -1,5 +1,5 @@
 # SQL
-This is a solo project that I answer the questions and note down the answers.
+In this project I answer the questions and note down the answers.
 9 different files corresponding with the 9 different problem sets on the website.
 
 # Acknowledgements 
